@@ -1,1 +1,1 @@
-# arabic-sign-language
+$ pip install -r requirements.txt
