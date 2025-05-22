@@ -1,8 +1,13 @@
-streamlit
-pandas
-numpy
+tensorflow
 scikit-learn
 matplotlib
+numpy
+pillow
+opencv-python
+tqdm
+seaborn
+streamlit
+
 
 
 
